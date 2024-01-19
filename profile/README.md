@@ -1,10 +1,11 @@
 Welcome to YAKE!
 
-Yake is a GitOps driven [Gardener](https://gardener.cloud) distribution.
+YAKE is a GitOps driven installer and lifecycle management tool for [Gardener](https://gardener.cloud).
+
 It helps you to deploy your [Gardener](https://gardener.cloud) setup fast and reliably.
 It is also your companion, when it comes to upgrading and maintaining your setup. All
-Yake releases are carefully selected and tested sets of
-upstream [Gardener](https://gardener.cloud) components. With Yake you can run and
+YAKE releases are carefully selected and tested sets of upstream
+[Gardener](https://gardener.cloud) components. With YAKE you can run and
 configure your complete [Gardener](https://gardener.cloud) setup through your Git
 configuration repository. Based on [Flux](https://fluxcd.io), the actual state of the
 system is always reconciled to the declarative configuration from your Git repository
